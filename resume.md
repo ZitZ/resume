@@ -1,71 +1,83 @@
-Markdown Resumé
+Paul Dino Jones
 ===============
 
-[Markdown](https://raw.github.com/mwhite/resume/master/resume.md) -> [PDF](https://raw.github.com/mwhite/resume/master/resume.pdf), [HTML](http://mwhite.github.com/resume), and more
-<http://github.com/mwhite/resume>
+West Chester, PA
+484-949-0192
+pauldjns@gmail.com
+https://raw.githubusercontent.com/ZitZ/resume/master/resume.md
 
-Interests
+
+Summary
 ---------
 
-*   Creating beautiful resumés from simple Markdown documents
+*   Experienced and talented professional developer with a wealth of knowledge in modern best practices. Currently specializing in Insurance and Financial applications. Strong knowledge of C#/VB DotNet, C/C++, Python, Java, Linux, and Relational Databases.
 
 
 Work Experience
 ---------------
 
-*   **Word Processor** (Redmond, WA)
+*   **IPipeline** (Exton, PA) 2013-present
 
-    *Junior Resumé Maker*, 2006 - 2007
+    *Senior Actuarial Developer*, 2015 - current
 
-    -   Intermingled presentation and content
-    -   Styling was a pain, so either didn't do it or found a half-decent
-        template and didn't mess with it
+    -   Became team technical leader for difficult technical decisions and problems
+    -   Consulted on system performance issues and implemented changes which improved calculation system time by up to 33%
+    -   Worked on new carrier implementations of Illustration systems
+    -   Traveled on-site to new carrier to gather requirements
+    -   Developed automated testing tools to test accuracy of customer actuarial calculations
+    -   Developed coding standards for use across team
+    -   Led documentation efforts of code base, practices, and tools
 
-*   **\LaTeX\ + pdflatex**
+    *Associate Actuarial Developer*, 2013-2015
 
-    *Senior Resumé Maker*, 2008 - 2010
+    -	Maintained legacy carrier desktop Illustration systems in C++
+    -   Maintained current Saas carrier illustration systems
+    -   Developed new e-signature solution
 
-    -   Edited verbose \LaTeX\ documents in a text editor
-    -   Mixed content and presentation to achieve pixel-perfection
-    -   Installed and configured the unusual TeX setups required by the
-        best-looking \LaTeX\ resumés
+*   **AFL Insurance**
 
-*   **LinkedIn, StackOverflow Careers, vizualize.me, etc**
+    *Actuarial Student*, 2012-2013
 
-    *Web Resumé Intern*, August 2010
+    -   Performed extensive study of policy reserves and liabilities on paid-up policies for corporate actuarial
+    -   Studied IBNR fluctuations as well as claims closed but not reported
+    -   Worked with IT to improve data reporting accuracy of AS/400 based system
 
-    -   Entered data, adapting to different data models and formatting
-        limitations
-    -   Attempted to customize PDF exports and remove default resumé elements,
-        to no avail
+*   **HDE Corporation**
 
-*   **Markdown with Pandoc**
+    *Programmer*, 2010-2012
 
-    *Resumé Architect*, February 2011 - present
-
-    -   Write in one format (Markdown), convert to many formats (PDF, HTML, ODT,
-        DOCX, and more)
-    -   Style HTML output with CSS and PDF output with a custom \LaTeX\ header
-    -   Use a simple pre-processor to define per-format operations on the
-        Markdown input or its parts, such as moving contact information to the
-        top right of the page in both HTML and PDF output.
-    -   Use a text-based resumé when needed in a pinch
-    -   Use version control, including free hosting on Github
-
+    -   Mirrored sales and shipping data into larger high-access MySQL database for long term storage and reporting
+    -   Created script to perform syncing of Microsoft SQL database to MySQL
+    -   Created databases and applications for Inventory, Shipments, Returns, Accounting and Sales
+    -   Created batch scripts with cron jobs to load new shipments into database from ftp
+    -   Created automated on-demand reporting php based sites
+    -   Created Paypal integration for sales team for bulk sales
+    -   Created integration scripts to automatically load saved weights from inventory system back into the shipping system
 
 Education
 ---------
 
-*   **Github University** (World Wide Web)
+*   **Lehigh University** (Bethlehem, PA)
 
-    *B.S. in Submodules*, May 2012
+    *B.S. in Economics*, May 2010
+    -  Minor Actuarial Science
+    -  Exams P/FM, all VEE
 
+
+Side Projects
+--------------
+
+*   Maintains home-lab network with 2U server and custom-built 1U router
+*   Experiments in penetration testing, encryption, and cyber security
+*   Uses python "zipline" backtesting api to develop quantatative stock market algorithms
+*   Runs in-house and public websites (personal cloud and email server)
 
 Skills
 ------
 
-*   Very experienced with Python, Markdown, \LaTeX
-
-*   Familiar with GNU Make, bash
-
+*   SQL database design and efficient querying
+*   C#, C/C++, Shell, Java, Python in order of familiarity
+*   Long Time Linux Super User
+*   Understands secure system administration and networking practices
+*   Can configure many different web server software setups
 
