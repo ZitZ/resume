@@ -10,7 +10,7 @@ https://raw.githubusercontent.com/ZitZ/resume/master/resume.md
 Summary
 ---------
 
-*   Experienced and talented professional developer with a wealth of knowledge in modern best practices. Currently specializing in Insurance and Financial applications. Strong knowledge of C#/VB DotNet, C/C++, Python, Java, Linux, and Relational Databases.
+*   Experienced and talented professional developer with a wealth of knowledge in modern best practices. Currently specializing in Insurance and Financial applications. Strong knowledge of C#/VB DotNet, C/C++, Python, Java, Linux, and Relational Databases. Self starter.
 
 
 Work Experience
@@ -18,7 +18,14 @@ Work Experience
 
 *   **IPipeline** (Exton, PA) 2013-present
 
-    *Senior Actuarial Developer*, 2015 - current
+    *Senior Underwriting Developer*, 2018-present
+    
+    -   Lead migration of software architecture to AWS CodeDeploy
+    -   Developed user acceptance test automation suite using Robot Framework
+    -   Continues to lead development team on AWS and software best practices
+    -   Engages customers in on-site sessions for requirements. Uses industry knowledge and best practices to lead requirements.
+
+    *Senior Actuarial Developer*, 2015 - 2018
 
     -   Became team technical leader for difficult technical decisions and problems
     -   Consulted on system performance issues and implemented changes which improved calculation system time by up to 33%
